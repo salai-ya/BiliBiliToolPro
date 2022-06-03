@@ -40,4 +40,6 @@ inputs:
           argument: UnfollowBatched
   environment:
     variables: # 根据自己的需要修改
-      Ray_BiliBiliCookies__1: 123 # cookie，必填
+      Ray_BiliBiliCookies__1: _uuid=10F1014EA2-10B43-101EF-2F9F-95E4DA3D429496217infoc; b_nut=1654089496; buvid3=4EC2B1BE-0B9B-5E7B-E468-6D4100F8172995548infoc; buvid4=416C830E-43C5-12D0-236F-EF9B3283182395548-022060121-hpoSt0fUM/cb2aBPKqmoGIp5Lnb6W7jtFZ0ABrXNcnHj8C1s52xoEg==; rpdid=0zbfVFS4gu|114fcTomg|2U|3w1NWoeQ; i-wanna-go-back=-1; fingerprint=97f1f89da871ab56fc81b9c4f259323f; buvid_fp_plain=undefined; DedeUserID=106103796; DedeUserID__ckMd5=0dc0397ec524d0f0; CURRENT_BLACKGAP=0; nostalgia_conf=-1; buvid_fp=97f1f89da871ab56fc81b9c4f259323f; blackside_state=0; b_ut=5; hit-dyn-v2=1; PVID=1; SESSDATA=1ba09d17,1669761656,9047e*61; bili_jct=1a5c39bfd20fee14a5d672fb606c231b; sid=kjp9w76e; bp_video_offset_106103796=667251941466701800; CURRENT_FNVAL=4048 # cookie，必填
+      Ray_Security__RandomSleepMaxMin: 20
+      Ray_Security__IntervalSecondsBetweenRequestApi: 20
